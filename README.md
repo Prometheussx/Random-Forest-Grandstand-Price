@@ -22,6 +22,7 @@ Using the dataset provided in data.csv, the script predicts the price for a 'Gra
 
 ![Ekran görüntüsü 2023-10-11 204436](https://github.com/Prometheussx/Random-Forest-Grandstand-Price/assets/54312783/7d6f90a4-cb2e-4a14-9a7f-798307f248e5)
 
+#Result
 ![Ekran görüntüsü 2023-10-11 205006](https://github.com/Prometheussx/Random-Forest-Grandstand-Price/assets/54312783/74da882d-387c-476b-bd15-26ae556b2367)
 
 ## Contribution
